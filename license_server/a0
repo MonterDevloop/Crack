@@ -1,0 +1,11 @@
+{
+  "Perfix":"STU",
+  "Perfixerror":"STU-Detected",
+  "Status":1,
+  "Info":"Address Error | Reset Address To @127.0.0.1",
+  "load":true,
+  "IP":"127.0.0.1",
+  "Username":true,
+  "Resource":"LA-Blackjob",
+  "ResName":true
+}
