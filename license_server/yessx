@@ -1,1 +1,12 @@
-{"name":"<@!1021729442973896755>","dev":"<@593084861473095691>","state":"actived","resname":"Dv_Hunter_Check","a":"89.38.101.45"}
+ {
+"ip": "89.38.101.45",
+ "hostname": "89-38-101-45.static.cloudforest.co.th",
+"city": "Bangkok",
+"region": "Bangkok",
+"country": "TH",
+"loc": "13.7833,100.5167",
+"org": "AS142299 CLOUDFOREST CO., LTD.",
+"postal": "10330",
+"timezone": "Asia/Bangkok",
+ "readme": "https://ipinfo.io/missingauth"
+ }
