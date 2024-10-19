@@ -1,12 +1,11 @@
- {
-"ip": "89.38.101.45",
- "hostname": "89-38-101-45.static.cloudforest.co.th",
+{
+"ip": "43.229.76.195",
 "city": "Bangkok",
 "region": "Bangkok",
 "country": "TH",
-"loc": "13.7833,100.5167",
-"org": "AS142299 CLOUDFOREST CO., LTD.",
-"postal": "10330",
+"loc": "13.7540,100.5014",
+"org": "AS56309 Siamdata Communication Co.,Ltd.",
+"postal": "10200",
 "timezone": "Asia/Bangkok",
- "readme": "https://ipinfo.io/missingauth"
- }
+"readme": "https://ipinfo.io/missingauth"
+}
