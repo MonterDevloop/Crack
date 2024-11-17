@@ -1,9 +1,1 @@
-{
-    "ip": [
-      {
-        "name": "Me",
-        "id": "171.100.152.171",
-        "keys": "MRB:GS5112T"
-      }
-    ]
-  }
+{"nel":"{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}","cf-ray":"8e405775fa9a8951-BKK","set-cookie":["__dcfduid=9b672e04a4ee11ef9874da05be4c5f40; Expires=Fri, 16-Nov-2029 14:16:58 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax","__sdcfduid=9b672e04a4ee11ef9874da05be4c5f40d3c8aee068345c89fa52d5126ac6076905ce7c914ca318bbf1995f8dcc27c522; Expires=Fri, 16-Nov-2029 14:16:58 GMT; Max-Age=157680000; Secure; HttpOnly; Path=/; SameSite=Lax","__cfruid=dad500b5cc8903b52cebcd938cc6902ccf1a6f9b-1731853018; path=/; domain=.discord.com; HttpOnly; Secure; SameSite=None","_cfuvid=XtQm0xu3oRCI2b3b90szy3ltf07SB7n7RjwrLhug6KQ-1731853018956-0.0.1.1-604800000; path=/; domain=.discord.com; HttpOnly; Secure; SameSite=None"],"server":"cloudflare","x-ratelimit-limit":"5","x-content-type-options":"nosniff","report-to":"{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=RtgJq5rEIuyHRHmNvbUetWblkXRcYquuRpvhaVCxlvbPccHZsoFhpoaL5tQ%2FZLrA6ogP9tqfgSUVSEHiyVqgmTFhe3G%2FcXOQ9Uiif1eFmu9XYdjijqVfbVCmJMi1\"}],\"group\":\"cf-nel\",\"max_age\":604800}","content-security-policy":"frame-ancestors 'none'; default-src 'none'","strict-transport-security":"max-age=31536000; includeSubDomains; preload","alt-svc":"h3=\":443\"; ma=86400","content-type":"text/html; charset=utf-8","cf-cache-status":"DYNAMIC","x-ratelimit-reset-after":"1","via":"1.1 google","x-ratelimit-reset":"1731853020","date":"Sun, 17 Nov 2024 14:16:58 GMT","x-ratelimit-bucket":"3d2712a9e4fe17cc9d3fed4a8e672e5f","x-ratelimit-remaining":"4"}
