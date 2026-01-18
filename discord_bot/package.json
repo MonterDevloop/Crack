@@ -1,0 +1,16 @@
+{
+  "name": "crack-discord-bot",
+  "version": "0.1.0",
+  "description": "Starter Discord bot with music, menus, and modern announcements",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@discordjs/voice": "^0.16.0",
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5",
+    "ytdl-core": "^4.11.5"
+  }
+}
